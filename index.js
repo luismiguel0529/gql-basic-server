@@ -10,7 +10,6 @@ const persons = [
     },
     {
         name: "Carlos",
-        phone: "2223333",
         street: "Calle backend",
         city: "Bello",
         id: "34343434-dssdsdsd-hhnhnhn"
